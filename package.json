@@ -1,0 +1,15 @@
+{
+  "name": "persianMDDoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali najafi",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
